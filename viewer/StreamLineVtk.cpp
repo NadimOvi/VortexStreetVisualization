@@ -69,6 +69,7 @@ namespace vispro
         emit RequestRender(); // Request an update to the render
     }
 
+
     vtkSmartPointer<vtkProp> StreamLineVtk::CreateActor()
     {
         mPointSource = vtkSmartPointer<vtkPointSource>::New();
