@@ -23,6 +23,7 @@ namespace vispro
 			// physical time for this time step
 			float startTime = desc.StartTime + iTime * desc.TemporalSpacing;
 
+
 			//// remove all the inactive particles
 			//int pid = 0;
 			//for (int ip = 0; ip < indomain.size(); ++ip) {

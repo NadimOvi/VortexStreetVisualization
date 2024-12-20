@@ -9,7 +9,7 @@
 #include "LIC.hpp"
 #include "FTLE.hpp"
 
-static const int num_time_steps = 151;
+static const int num_time_steps = 100;
 
 void ComputeVelocity(const std::string& basePath) {
 	// for each time step

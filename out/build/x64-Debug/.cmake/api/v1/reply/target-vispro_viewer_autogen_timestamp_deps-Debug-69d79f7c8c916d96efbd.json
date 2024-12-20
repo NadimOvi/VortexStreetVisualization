@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"viewer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "vispro_common::@bfc844598bd03e848b3c"
+		}
+	],
+	"id" : "vispro_viewer_autogen_timestamp_deps::@4ad571843d929affe7de",
+	"isGeneratorProvided" : true,
+	"name" : "vispro_viewer_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "viewer",
+		"source" : "viewer"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
