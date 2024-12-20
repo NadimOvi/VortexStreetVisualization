@@ -55,6 +55,7 @@ namespace vispro
             valueLabel->setText(QString::number(subtractionValue, 'f', 2));
             });
 
+
         QFormLayout* layout = new QFormLayout;
         layout->addRow(new QLabel(tr("Color:")), colorButton);
         layout->addRow(new QLabel(tr("Change Value:")), subtractionSlider);
